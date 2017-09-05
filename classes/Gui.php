@@ -9,7 +9,7 @@
 		/**
 		 *Constructor
 		 */
-		function __constructor () {}
+		function __construct () {}
 		 
 		/**
 		 * Prints a combox box
